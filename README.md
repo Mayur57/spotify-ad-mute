@@ -2,6 +2,7 @@
 A simple script that blocks Spotify ads.
 
 ### Requirements
+- macOS device -> Currently only available for macOS; Windows version will be up soon
 - Python 3.8+ -> For the script runtime and interpretation
 - osascript -> To execute Applescript commands and change volume of macOS
 - spotipy -> Python interface for Spotify Web API
